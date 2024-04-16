@@ -11,12 +11,13 @@ Trao giải thưởng sinh viên
 - Phân tích và mô hình hóa với REST SERVICE và Microservice
 --------------------------
 ## 4) Phân tích và thiết kế hệ thống
-- [Google Drive Link](https://drive.google.com/drive/folders/1nMU8IFJ-THkZgRT5Of3-iynewZmK7QgB?usp=drive_link)
+- [Google Drive Link](https://drive.google.com/drive/folders/1nMU8IFJ-THkZgRT5Of3-iynewZmK7QgB?usp=sharing)
 --------------------------
 ## 5) Công nghệ dự kiến sử dụng
 - Spring boot 3.2.4
 --------------------------
 ## 6) Tiến độ bài tập
-- Thực hiện việc phân tích ứng viên dịch vụ, năng lực dịch vụ
-- Chưa thực hiện được pha thiết kế
+- Hoán thành pha thiết kế
+- Đã có phiên bản phần mềm ban đầu
+- Vẫn còn tồn tại một số lỗi
 
