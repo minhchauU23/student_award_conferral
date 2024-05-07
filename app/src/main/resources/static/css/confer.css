@@ -1,0 +1,70 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Kiểu cho timeline */
+.timeline {
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Kiểu cho mỗi bước (step) */
+.step {
+    margin-bottom: 20px;
+}
+
+/* Kiểu cho nội dung của sự kiện */
+.content {
+    padding: 20px;
+}
+
+/* Kiểu cho tên của sự kiện */
+.name {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #333;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Kiểu cho trạng thái của sự kiện */
+.state {
+    margin-bottom: 0;
+    color: #666;
+    font-style: italic;
+}
+
+/* Kiểu cho biểu tượng */
+.state i {
+    margin-right: 5px; /* Khoảng cách giữa biểu tượng và văn bản */
+    font-size: 16px; /* Kích thước biểu tượng */
+}
+
+/* Kiểu cho trạng thái "Đang tải" */
+.state .fa-spinner {
+    color: #007bff; /* Màu của biểu tượng */
+}
+
+/* Kiểu cho trạng thái "Thành công" */
+.state .fa-check-circle {
+    color: #28a745; /* Màu của biểu tượng */
+}
+
+/* Kiểu cho trạng thái "Thất bại" */
+.state .fa-times-circle {
+    color: #dc3545; /* Màu của biểu tượng */
+}
